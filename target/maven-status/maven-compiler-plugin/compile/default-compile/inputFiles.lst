@@ -1,0 +1,13 @@
+/home/astro/edu/kpi/2020_2021_2/dmitrenko/novik/Chess_Lab/src/main/java/com/chessfab/entities/chessBoard.java
+/home/astro/edu/kpi/2020_2021_2/dmitrenko/novik/Chess_Lab/src/main/java/com/chessfab/exceptions/ColorMismatchException.java
+/home/astro/edu/kpi/2020_2021_2/dmitrenko/novik/Chess_Lab/src/main/java/com/chessfab/exceptions/TooMuchChessPiecesSameTypeInSetException.java
+/home/astro/edu/kpi/2020_2021_2/dmitrenko/novik/Chess_Lab/src/main/java/com/chessfab/exceptions/InvalidChessPieceTypeException.java
+/home/astro/edu/kpi/2020_2021_2/dmitrenko/novik/Chess_Lab/src/main/java/com/chessfab/exceptions/InvalidColorException.java
+/home/astro/edu/kpi/2020_2021_2/dmitrenko/novik/Chess_Lab/src/main/java/com/chessfab/exceptions/IncompleteOrOverflowedPiecesSetException.java
+/home/astro/edu/kpi/2020_2021_2/dmitrenko/novik/Chess_Lab/src/main/java/com/chessfab/entities/gameSet.java
+/home/astro/edu/kpi/2020_2021_2/dmitrenko/novik/Chess_Lab/src/main/java/com/chessfab/exceptions/TooMuchChessPiecesInSetException.java
+/home/astro/edu/kpi/2020_2021_2/dmitrenko/novik/Chess_Lab/src/main/java/com/chessfab/entities/chessPiece.java
+/home/astro/edu/kpi/2020_2021_2/dmitrenko/novik/Chess_Lab/src/main/java/com/chessfab/entities/chessPiecesSetTest.java
+/home/astro/edu/kpi/2020_2021_2/dmitrenko/novik/Chess_Lab/src/main/java/com/chessfab/entities/chessPiecesSet.java
+/home/astro/edu/kpi/2020_2021_2/dmitrenko/novik/Chess_Lab/src/main/java/com/chessfab/entities/materialisable.java
+/home/astro/edu/kpi/2020_2021_2/dmitrenko/novik/Chess_Lab/src/main/java/com/chessfab/Main.java
